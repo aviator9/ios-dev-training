@@ -23,6 +23,7 @@ Make sure you've read and followed instructions in [setup guide](https://github.
 
 ### Part 1: Beginner
 - [Week 1: The Basics](https://github.com/aviator9/ios-dev-training/blob/master/program/01-week1-the-basics.md)
+- [Week 2: Introduction to iOS development](https://github.com/aviator9/ios-dev-training/blob/master/program/02-week2-intro-to-ios.md)
 
 ### Part 2: Intermediate
 
