@@ -17,5 +17,13 @@
 - [iOS Programming: The Big Nerd Ranch Guide (6th Edition)](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-sixth-edition/)
 - [Pro Git](https://git-scm.com/book/en/v2)
 
+## Main Program
 ### Before Getting Started
 Make sure you've read and followed instructions in [setup guide](https://github.com/aviator9/ios-dev-training/blob/master/setup/00-setup.md)
+
+### Part 1: Beginner
+- [Week 1: The Basics](https://github.com/aviator9/ios-dev-training/blob/master/program/01-week1-the-basics.md)
+
+### Part 2: Intermediate
+
+### Part 3: Capstone Project
