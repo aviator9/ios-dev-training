@@ -16,3 +16,6 @@
 - [App Development with Swift](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996), published by Apple
 - [iOS Programming: The Big Nerd Ranch Guide (6th Edition)](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-sixth-edition/)
 - [Pro Git](https://git-scm.com/book/en/v2)
+
+### Before Getting Started
+Make sure you've read and followed instructions in [setup guide](https://github.com/aviator9/ios-dev-training/blob/master/setup/00-setup.md)

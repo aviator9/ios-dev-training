@@ -40,6 +40,17 @@ $ brew install fish
 ### Install Xcode
 Download and install it from the App Store or from [Apple's website](https://developer.apple.com/xcode/).
 
+### Install another Code Editor
+Sometimes you want to edit other file types than .swift, eg: make a deploy script, ...
+Just choose one between Sublime Text and Visual Studio Code
+```
+$ brew cask install sublime-text
+```
+or
+```
+$ brew cask install visual-studio-code
+```
+
 ### More
 Checkout below resources for more
 - [New MacBook Setup for Developers](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
