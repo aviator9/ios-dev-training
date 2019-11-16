@@ -12,4 +12,4 @@
 
 ## What You'll Build
 - Homeowner
-- Project Airliners
+- [Project Airliners](./project-airliners/README.md)
