@@ -19,12 +19,14 @@
 
 ## Main Program
 ### Before Getting Started
-Make sure you've read and followed instructions in [setup guide](https://github.com/aviator9/ios-dev-training/blob/master/setup/00-setup.md)
+Make sure you've read and followed instructions in [setup guide](./setup/00-setup.md)
 
 ### Part 1: Beginner
-- [Week 1: The Basics](https://github.com/aviator9/ios-dev-training/blob/master/program/01-week1-the-basics.md)
-- [Week 2: Introduction to iOS development](https://github.com/aviator9/ios-dev-training/blob/master/program/02-week2-intro-to-ios.md)
-- [Week 3: Navigation and Workflows](https://github.com/aviator9/ios-dev-training/blob/master/program/03-week3-navigation-and-workflows.md)
+- [Week 1: The Basics](./program/01-week1-the-basics.md)
+- [Week 2: Introduction to iOS development](./program/02-week2-intro-to-ios.md)
+- [Week 3: Navigation and Workflows](./program/03-week3-navigation-and-workflows.md)
+- [Week 4: Tables and Persistence](./program/04-week4-tables-and-persistence.md)
+- [Week 5: Tables Revisited and Project Airliners](./program/05-week5-tables-revisited-project-airliners.md)
 
 ### Part 2: Intermediate
 
