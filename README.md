@@ -27,6 +27,7 @@ Make sure you've read and followed instructions in [setup guide](./setup/00-setu
 - [Week 3: Navigation and Workflows](./program/03-week3-navigation-and-workflows.md)
 - [Week 4: Tables and Persistence](./program/04-week4-tables-and-persistence.md)
 - [Week 5: Tables Revisited and Project Airliners](./program/05-week5-tables-revisited-project-airliners.md)
+- [Week 6: Working with the Web](./program/06-week6-working-with-the-web.md)
 
 ### Part 2: Intermediate
 

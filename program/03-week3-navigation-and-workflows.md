@@ -9,7 +9,6 @@ In this week, you'll learn about an important Swift feature for working with opt
 - [Functions, Closures](https://www.sololearn.com/Play/Swift), of **SoloLearn** course
 - [Object Oriented Programming](https://www.sololearn.com/Play/Swift), of **SoloLearn** course
 - [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html), from **Apple's Swift Documentation**
-- [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html), from **Apple's Swift Documentation**
 - [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html), from **Apple's Swift Documentation**
 - [Structures and Classes](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html), from **Apple's Swift Documentation**
 
